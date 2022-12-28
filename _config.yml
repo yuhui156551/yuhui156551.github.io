@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: git
   repository: https://github.com/yuhui156551/yuhui156551.github.io.git
-  branch: main
+  branch: master
