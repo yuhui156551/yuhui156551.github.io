@@ -673,7 +673,7 @@ aside:
       link: https://github.com/yuhui156551
   card_announcement:
     enable: true
-    content: 2022-9-22使用Java写下第一个HelloWorld ... 每天进步一点点 ... 热爱可抵岁月漫长.
+    content: 2022-9-22 开始学习Java ... 每天进步一点点 ... 热爱可抵岁月漫长.
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
